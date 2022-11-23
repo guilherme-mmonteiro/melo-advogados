@@ -1,1 +1,0 @@
-print("não é dificil");
